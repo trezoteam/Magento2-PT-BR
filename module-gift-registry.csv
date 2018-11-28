@@ -1,0 +1,75 @@
+"Are you sure you want to delete this gift registry?","Tem certeza de que deseja excluir este registro de presentes?"
+"Delete Registry","Excluir registro"
+"Gift Registry Entity","Entidade de registro de presentes"
+"Product ID","ID do produto"
+Product,produtos
+SKU,SKU
+Price,Preço
+Quantity,Quantidade
+Total,Total
+"Add to Gift Registry","Adicionar ao registro de presentes"
+"Are you sure you want to add these products?","Tem certeza de que deseja adicionar esses produtos?"
+"Update Items and Quantities","Atualizar itens e quantidades"
+ID,identidade
+Requested,Requeridos
+Fulfilled,Realizada
+Note,Nota
+Action,Açao
+"Update Quantity","Quantidade de atualização"
+"Remove Item","Remover item"
+"Sharing Information","Partilhando informação"
+Emails,Emails
+"Send From","Enviar de"
+Message,mensagem
+"Share Gift Registry","Compartilhar o registro de presentes"
+"Gift Registry","Registro de presentes"
+Event,Evento
+Registrants,Registrantes
+"Event Date","Data do evento"
+"Total Items","Total de itens"
+Remaining,Restante
+Public,Público
+No,Não
+Yes,sim
+Website,Local na rede Internet
+"Gift Registry Types","Tipos de registro de presentes"
+"Add Gift Registry Type","Adicionar tipo de registro de presente"
+Save,Salve 
+"If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?","Se você excluir esse tipo de registro de presentes, também excluirá registros de clientes que usam esse tipo. Deseja continuar?"
+Delete,Excluir
+"Save and Continue Edit","Salvar e Continuar Editar"
+"Edit '%1' Gift Registry Type","Editar '% 1' tipo de registro de presente"
+"New Gift Registry Type","Novo tipo de registro de presentes"
+"Add Attribute","Adicionar atributo"
+"Delete Attribute","Excluir atributo"
+"Use Default Value","Usar valor padrão"
+Short,Baixo
+Medium,Médio
+Long,Longo
+Full,Cheio
+"Add New Option","Adicionar nova opção"
+"Delete Option","Excluir opção"
+"General Information","Informação geral"
+Code,Código
+Label,Rótulo
+"Sort Order","Ordem de classificação"
+"Is Listed","Está listado"
+Attributes,Atributos
+[GLOBAL],[GLOBAL]
+[WEBSITE],[LOCAL NA REDE INTERNET]
+"[STORE VIEW]","[VISTA DE ARMAZENAMENTO]"
+None,Nenhum
+"New Address","Novo endereço"
+"Edit Gift Registry","Editar registro de presente"
+"Create Gift Registry","Criar um registro de presentes"
+State/Province,Estado / Província
+"Please select a region, state or province","Por favor selecione uma região, estado ou província"
+"Please Select","Por favor selecione"
+"View Gift Registry %1","Visualizar registro de presentes% 1"
+"Share '%1' Gift Registry","Compartilhar '% 1' registro de presentes"
+"-- Please select --","-- Por favor selecione --"
+From,De
+To,Para
+"Gift Registry Search","Pesquisa de registro de presentes"
+"Select Search Type","Selecione o tipo de pesquisa"
+Registrant,Registrante
