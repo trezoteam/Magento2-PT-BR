@@ -90,3 +90,4 @@ error345,error345
 Carts,Carrinhos
 "Manage carts","Manusear Carrinhos"
 "Invalid state change requested","Invalid state change requested"
+"This shipping method is not available. To use this shipping method, please contact us.", "Seu CEP pode estar inválido, por favor, verificar ou entrar em contato com a nossa Central de Atendimento"
