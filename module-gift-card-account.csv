@@ -8,8 +8,8 @@ Delete,Deletar
 ID,ID
 Date,Data
 Action,Ação
-"Balance Change","Balanço Geral"
-Balance,Balanço
+"Balance Change","Mudança de Saldo"
+Balance,Saldo
 "More Information","Mais Informações"
 Information,Informações
 "Gift Card Code","Código de Cartão de Presente"
@@ -143,3 +143,6 @@ CSV,CSV
 "Are you sure you want to delete these gift card accounts?","Tem certeza de que deseja excluir essas contas de cartão presente?"
 Code,Código
 End,Fim
+"Use Store Credit","Usar Crédito"
+"Store credit available","Crédito disponível"
+"Store credit","Crédito na Loja"
