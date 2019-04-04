@@ -3,6 +3,7 @@ Tradução Magento2 Português Brasil
 
 ## Como Instalar
 
+
 ### Via Composer
 
 ```sh
