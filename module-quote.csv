@@ -85,9 +85,9 @@ Tax,Imposto
 "Carrier with such method not found: %1, %2","Transportadora selecionada não está disponível para esse endereço."
 "Cannot set shipping method. %1","Não foi possível selecionar o método de entrega. %1"
 "Minimum Order Amount Exceeded.","Quantidade mínima do pedido excedida."
-error123,error123
-error345,error345
 Carts,Carrinhos
 "Manage carts","Manusear Carrinhos"
 "Invalid state change requested","Invalid state change requested"
 "This shipping method is not available. To use this shipping method, please contact us.", "Seu CEP pode estar inválido, por favor, verificar ou entrar em contato com a nossa Central de Atendimento"
+"The coupon code isn't valid. Verify the code and try again.","O cupom não é válido. Verifique o código e tente novamente."
+"The gift card code couldn't be added. Verify your information and try again.","Não foi possível adicionar este cartão. Verifique as informações e tente novamente"
