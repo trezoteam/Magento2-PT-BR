@@ -29,3 +29,4 @@ composer require trezoteam/magento2-enterprise-pt_br
 - [danilonobre](https://github.com/danilonobre)
 - [brunoviana](https://github.com/brunoviana)
 - [alinte-matos](https://github.com/aline-matos)
+- [roneclay](https://github.com/roneclay)
