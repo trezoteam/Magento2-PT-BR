@@ -131,3 +131,4 @@ Translations,Translations
 "Apply Discount","Aplicar Desconto"
 "Ship Here","Entregar Aqui"
 "Loading ...","Carregando ..."
+"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","O valor do atributo ""%1"" não é exclusivo. Defina um valor único e tente novamente."
