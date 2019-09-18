@@ -45,7 +45,7 @@ Message:,Mensagem:
 "Clear Shopping Cart","Limpar Carrinho"
 Address,Endereço
 Telephone,Telefone
-"Save in address book","Guardar no livro de endereços"
+"Save in address book","Salvar em meus endereços"
 Continue,Continue
 "Order #","Pedido #"
 "Payment Method","Forma de Pagamento"
@@ -538,17 +538,9 @@ Comma-separated,Comma-separated
 "Allow Reorder","Permitir Reencomenda"
 "Invoice and Packing Slip Design","Design de Fatura e Embalagem"
 "Logo for PDF Print-outs (200x50)","Logo para Impressões de PDF (200x50)"
-"
-Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
-","
-Seu logo padrão será usado no PDF e documentos HTML.<br />(jpeg, tiff, png) Se sua imagem do pdf é distorcida, tente usar um arquivo de imagem maior.
-"
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Seu logo padrão será usado no PDF e documentos HTML.<br />(jpeg, tiff, png) Se sua imagem do pdf é distorcida, tente usar um arquivo de imagem maior."
 "Logo for HTML Print View","Logo for HTML Print View"
-"
-Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
-","
-Somente logo para documentos HTML. Se vazio, o padrão será usado.<br />(jpeg, gif, png)
-"
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Somente logo para documentos HTML. Se vazio, o padrão será usado.<br />(jpeg, gif, png)"
 "Minimum Amount","Quantia Mínima"
 "Subtotal after discount","Subtotal após desconto"
 "Description Message","Mensagem de Descrição"
